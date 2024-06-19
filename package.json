@@ -70,7 +70,7 @@
     "typescript": "^5.2.2",
     "uuid": "^9.0.1",
     "vite": "^4.4.11",
-    "vite-plugin-pwa": "^0.16.5",
+    "vite-plugin-pwa": "^0.20.0",
     "vite-plugin-solid": "^2.7.0",
     "zod": "^3.22.4"
   }
